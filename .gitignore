@@ -1,0 +1,4 @@
+# A folder that Visual Studio creates
+.vs/
+# The lock file that Ghidra crates when an archive is open for editing
+*.gdt.ulock
