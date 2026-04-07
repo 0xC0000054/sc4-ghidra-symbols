@@ -19,6 +19,16 @@ This archive contains structure information for the Gimex (Graphics IMport EXpor
 The types were extracted from the [Gimex header](https://github.com/electronicarts/CnC_Generals_Zero_Hour/blob/main/Generals/Code/Libraries/Source/Compression/EAC/gimex.h) that was released with the Command & Conquer Generals source code.
 The version in that header (3.46) is one revision newer than what was used in SimCity 4 (3.45), but the only change in 3.46 appears to have been defining a new bit field in space that was already reserved.
 
+### DirectX7.gdt
+
+This archive contains information for DirectX 7 types.
+The types were extracted from the Windows headers.
+
+### Lua5.0.gdt
+
+This archive contains information for Lua 5.0 types.
+The types were extracted from the Lua 5.0 headers.
+
 ## Function ID Databases
 
 These databases assist Ghidra in attempting to identify library functions in the Windows version of SimCity 4.
